@@ -1,0 +1,9 @@
+chat_icon_xpath://*[@id='side']/header/div[2]/div/span/div[1]/button
+namesearch_xpath://*[@id='side']/div[2]/div/label/input
+search_cross_xpath://*[@id='side']/div[2]/div/span/button
+nameexpand_xpath://*[@id='pane-side']/div
+attachicon_xpath://*[@id='main']/header/div[3]/div/div[1]/button
+attachpic_xpath://*[@id='main']/header/div[3]/div/div[1]/span/div/div/ul/li[1]/button
+send_image_icon_xpath://*[@id='app']/div/div[3]/div[1]/span[2]/span/div/div[2]/span[2]/div/button
+text_field_xpath://*[@id="main"]/footer/div[1]/div/div/div[2]
+send_text_icon_xpath://*[@id='main']/footer/div[2]/button[2]
