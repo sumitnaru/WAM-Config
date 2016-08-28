@@ -7,3 +7,4 @@ attachpic_xpath://*[@id='main']/header/div[3]/div/div[1]/span/div/div/ul/li[1]/b
 send_image_icon_xpath://*[@id='app']/div/div[3]/div[1]/span[2]/span/div/div[2]/span[2]/div/button
 text_field_xpath://*[@id="main"]/footer/div[1]/div/div/div[2]
 send_text_icon_xpath://*[@id='main']/footer/div[2]/button[2]
+160829
